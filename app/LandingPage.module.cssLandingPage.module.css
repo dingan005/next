@@ -1,0 +1,38 @@
+/* LandingPage.module.css */
+
+.container {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .header {
+    background-color: #f5f5f5;
+    padding: 50px 20px;
+  }
+  
+  .main {
+    padding: 20px;
+  }
+  
+  .features {
+    margin: 20px 0;
+  }
+  
+  .getStarted {
+    margin: 40px 0;
+  }
+  
+  .button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #0070f3;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .footer {
+    margin-top: 40px;
+    font-size: 0.8em;
+    color: #666;
+  }
